@@ -1,2 +1,2 @@
-# TP N°24 Pedidos Asincronicos con JS
+# TP N°26 Pedidos Asincronicos con JS
 - BLANEZ, Mariana
